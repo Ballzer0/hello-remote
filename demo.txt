@@ -1,1 +1,2 @@
 dette er noe test tekst
+dette er en til linje med tekst
